@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>2026061116514764D70M</value>
+    <value>20260612161121XINUO9</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260611165147YZ3INW</value>
+    <value>20260612161121I307DR</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -48,7 +48,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1781206987281</value>
+    <value>1781291436300</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -81,7 +81,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mq9wmrki-7i85pmak0</odePageId>
+  <odePageId>page-mqbaxgpg-zzmhh22wp</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Lámina N°4: Escalas</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -117,7 +117,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq9wmrki-7i85pmak0</odePageId>
+      <odePageId>page-mqbaxgpg-zzmhh22wp</odePageId>
       <odeBlockId>block-1779746581193-g12uknfck</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -146,7 +146,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq9wmrki-7i85pmak0</odePageId>
+          <odePageId>page-mqbaxgpg-zzmhh22wp</odePageId>
           <odeBlockId>block-1779746581193-g12uknfck</odeBlockId>
           <odeIdeviceId>idevice-1779746581190-23eky30wg</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -175,7 +175,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq9wmrkm-up197c6vq</odePageId>
+  <odePageId>page-mqbaxgpj-t8aitsse1</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Lámina N°5: BISECTRIZ, INCENTRO Y TANGENTE</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
@@ -211,7 +211,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq9wmrkm-up197c6vq</odePageId>
+      <odePageId>page-mqbaxgpj-t8aitsse1</odePageId>
       <odeBlockId>block-1779676046337-a4k08j0od</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -240,7 +240,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq9wmrkm-up197c6vq</odePageId>
+          <odePageId>page-mqbaxgpj-t8aitsse1</odePageId>
           <odeBlockId>block-1779676046337-a4k08j0od</odeBlockId>
           <odeIdeviceId>idevice-1779676046330-0z8qtxq4f</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -292,7 +292,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq9wmrko-t04pgw5lw</odePageId>
+  <odePageId>page-mqbaxgpl-u94uvzq4k</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Lámina N°6: ÓVALO</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
@@ -328,7 +328,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq9wmrko-t04pgw5lw</odePageId>
+      <odePageId>page-mqbaxgpl-u94uvzq4k</odePageId>
       <odeBlockId>block-1779676416994-ay1jmtkc4</odeBlockId>
       <blockName>LAMINA N°6: ÓVALO</blockName>
       <iconName></iconName>
@@ -357,7 +357,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq9wmrko-t04pgw5lw</odePageId>
+          <odePageId>page-mqbaxgpl-u94uvzq4k</odePageId>
           <odeBlockId>block-1779676416994-ay1jmtkc4</odeBlockId>
           <odeIdeviceId>idevice-1779676416960-0846qcukt</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -390,7 +390,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq9wmrkp-g04g1olfm</odePageId>
+  <odePageId>page-mqbaxgpm-v7n2ax0ul</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Unidad III: Enlaces </pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
@@ -426,7 +426,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq9wmrkp-g04g1olfm</odePageId>
+      <odePageId>page-mqbaxgpm-v7n2ax0ul</odePageId>
       <odeBlockId>block-1779745620993-egb1xb4b6</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -455,7 +455,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq9wmrkp-g04g1olfm</odePageId>
+          <odePageId>page-mqbaxgpm-v7n2ax0ul</odePageId>
           <odeBlockId>block-1779745620993-egb1xb4b6</odeBlockId>
           <odeIdeviceId>idevice-1779745620990-j7borta45</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -487,8 +487,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mq9wmrkr-3acvwzpje</odePageId>
-  <odeParentPageId>page-mq9wmrkp-g04g1olfm</odeParentPageId>
+  <odePageId>page-mqbaxgpo-fkixt030v</odePageId>
+  <odeParentPageId>page-mqbaxgpm-v7n2ax0ul</odeParentPageId>
   <pageName>Lamina 7</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -523,7 +523,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mq9wmrkr-3acvwzpje</odePageId>
+      <odePageId>page-mqbaxgpo-fkixt030v</odePageId>
       <odeBlockId>block-1779746509102-445ygh3qh</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -552,7 +552,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mq9wmrkr-3acvwzpje</odePageId>
+          <odePageId>page-mqbaxgpo-fkixt030v</odePageId>
           <odeBlockId>block-1779746509102-445ygh3qh</odeBlockId>
           <odeIdeviceId>idevice-1779746509100-i2x8a8ijx</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
