@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260612161121XINUO9</value>
+    <value>202606152307578OBGMD</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260612161121I307DR</value>
+    <value>20260615230757FIM000</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -48,7 +48,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1781291436300</value>
+    <value>1781575232372</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -81,7 +81,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mqbaxgpg-zzmhh22wp</odePageId>
+  <odePageId>page-mqfzw75o-ggqu4mqcz</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Lámina N°4: Escalas</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -117,7 +117,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mqbaxgpg-zzmhh22wp</odePageId>
+      <odePageId>page-mqfzw75o-ggqu4mqcz</odePageId>
       <odeBlockId>block-1779746581193-g12uknfck</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -146,7 +146,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mqbaxgpg-zzmhh22wp</odePageId>
+          <odePageId>page-mqfzw75o-ggqu4mqcz</odePageId>
           <odeBlockId>block-1779746581193-g12uknfck</odeBlockId>
           <odeIdeviceId>idevice-1779746581190-23eky30wg</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -175,7 +175,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mqbaxgpj-t8aitsse1</odePageId>
+  <odePageId>page-mqfzw75r-dd1ea2ouw</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Lámina N°5: BISECTRIZ, INCENTRO Y TANGENTE</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
@@ -211,7 +211,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mqbaxgpj-t8aitsse1</odePageId>
+      <odePageId>page-mqfzw75r-dd1ea2ouw</odePageId>
       <odeBlockId>block-1779676046337-a4k08j0od</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -240,7 +240,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mqbaxgpj-t8aitsse1</odePageId>
+          <odePageId>page-mqfzw75r-dd1ea2ouw</odePageId>
           <odeBlockId>block-1779676046337-a4k08j0od</odeBlockId>
           <odeIdeviceId>idevice-1779676046330-0z8qtxq4f</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -292,7 +292,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mqbaxgpl-u94uvzq4k</odePageId>
+  <odePageId>page-mqfzw75t-dj48bpwxe</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Lámina N°6: ÓVALO</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
@@ -328,7 +328,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mqbaxgpl-u94uvzq4k</odePageId>
+      <odePageId>page-mqfzw75t-dj48bpwxe</odePageId>
       <odeBlockId>block-1779676416994-ay1jmtkc4</odeBlockId>
       <blockName>LAMINA N°6: ÓVALO</blockName>
       <iconName></iconName>
@@ -357,7 +357,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mqbaxgpl-u94uvzq4k</odePageId>
+          <odePageId>page-mqfzw75t-dj48bpwxe</odePageId>
           <odeBlockId>block-1779676416994-ay1jmtkc4</odeBlockId>
           <odeIdeviceId>idevice-1779676416960-0846qcukt</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -390,10 +390,76 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mqbaxgpm-v7n2ax0ul</odePageId>
+  <odePageId>page-1781575259003-7bwytnbec</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Lámina N°7: Ovoide</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Lámina N°7: Ovoide</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1781575259003-7bwytnbec</odePageId>
+      <odeBlockId>block-1781575357742-wwv3kcnjg</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781575259003-7bwytnbec</odePageId>
+          <odeBlockId>block-1781575357742-wwv3kcnjg</odeBlockId>
+          <odeIdeviceId>idevice-1781575357740-xc7m2rv7f</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><span style="color: #2dc26b;"><strong>LÁMINA N°7: OVOIDE</strong></span></p>
+<p><strong>Actividad:</strong> UTILIZANDO COMO EJE MENOR, LA LÍNEA AB= 80mm, construir la figura con tipo de línea B (4H).</p>
+<p>Trazar el ovoide (bordes de la figura) con tipo de línea A (HB).</p>
+<p>Atrás de la lámina escribir con caligrafía normalizada  (renglones de 4mm, separados por 2mm) la definición de Ovoide:</p>
+<p><em>El ovoide es una curva cerrada y plana que presenta la forma de un huevo. Está compuesta por cuatro arcos de circunferencia, donde dos de los arcos son simétricos entre sí y los otros dos son desiguales .</em></p>
+<p><em></em></p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/JqfLUr4yyT8?si=HhMMaaZ7tgLsCTAZ" allowfullscreen="allowfullscreen"></iframe></p>
+<p></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781575357740-xc7m2rv7f","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><span style=\"color: #2dc26b;\"><strong>LÁMINA N°7: OVOIDE</strong></span></p>\n<p><strong>Actividad:</strong> UTILIZANDO COMO EJE MENOR, LA LÍNEA AB= 80mm, construir la figura con tipo de línea B (4H).</p>\n<p>Trazar el ovoide (bordes de la figura) con tipo de línea A (HB).</p>\n<p>Atrás de la lámina escribir con caligrafía normalizada  (renglones de 4mm, separados por 2mm) la definición de Ovoide:</p>\n<p><em>El ovoide es una curva cerrada y plana que presenta la forma de un huevo. Está compuesta por cuatro arcos de circunferencia, donde dos de los arcos son simétricos entre sí y los otros dos son desiguales .</em></p>\n<p><em></em></p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/JqfLUr4yyT8?si=HhMMaaZ7tgLsCTAZ\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqfzw75u-osyeo6p1n</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Unidad III: Enlaces </pageName>
-  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -426,7 +492,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mqbaxgpm-v7n2ax0ul</odePageId>
+      <odePageId>page-mqfzw75u-osyeo6p1n</odePageId>
       <odeBlockId>block-1779745620993-egb1xb4b6</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -455,7 +521,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mqbaxgpm-v7n2ax0ul</odePageId>
+          <odePageId>page-mqfzw75u-osyeo6p1n</odePageId>
           <odeBlockId>block-1779745620993-egb1xb4b6</odeBlockId>
           <odeIdeviceId>idevice-1779745620990-j7borta45</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -487,14 +553,14 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mqbaxgpo-fkixt030v</odePageId>
-  <odeParentPageId>page-mqbaxgpm-v7n2ax0ul</odeParentPageId>
-  <pageName>Lamina 7</pageName>
+  <odePageId>page-mqfzw75v-om51jonh2</odePageId>
+  <odeParentPageId>page-mqfzw75u-osyeo6p1n</odeParentPageId>
+  <pageName>Lamina 8</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>Lamina 7</value>
+      <value>Lamina 8</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>visibility</key>
@@ -518,12 +584,12 @@
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titleNode</key>
-      <value></value>
+      <value>Lamina 8</value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mqbaxgpo-fkixt030v</odePageId>
+      <odePageId>page-mqfzw75v-om51jonh2</odePageId>
       <odeBlockId>block-1779746509102-445ygh3qh</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -552,7 +618,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mqbaxgpo-fkixt030v</odePageId>
+          <odePageId>page-mqfzw75v-om51jonh2</odePageId>
           <odeBlockId>block-1779746509102-445ygh3qh</odeBlockId>
           <odeIdeviceId>idevice-1779746509100-i2x8a8ijx</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
